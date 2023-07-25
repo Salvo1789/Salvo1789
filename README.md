@@ -15,7 +15,7 @@ Mi chiamo Salvatore Mercurio e sono un junior Full Stack Web Developer 🌐 in c
 **Le mie competenze:**
 ---
 * Front-end: HTML5, CSS3, Javascript, React, Bootstrap, Redux
-* Back-end: Java, Spring Boot
+* Back-end: Java, Spring Boot, Bcrypt
 * DBMS: PostgreSQL
 * Tools: Postman
 
