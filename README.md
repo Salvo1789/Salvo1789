@@ -1,16 +1,22 @@
-### Hi there 👋
+### “Un guerriero non può abbassare la testa, altrimenti perde di vista l'orizzonte dei suoi sogni.”
 
-<!--
-**Salvo1789/Salvo1789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Paulo Coelho
 
-Here are some ideas to get you started:
+Ciao a tutti!
+---
+Mi chiamo Salvatore Mercurio e sono un junior Full Stack Web Developer 🌐 in costante formazione e alla ricerca di nuovi spunti per rendere i miei progetti sempre più innovativi e accattivanti!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I miei punti di forza:
+* Grande spirito di squadra
+* Perseveranza nell'incrementare le mie conoscenze
+* Resilienza
+  
+Le mie competenze:
+* Front-end: HTML5, CSS3, Javascript, React, Bootstrap, Redux
+* Back-end: Java, Spring Boot
+* DBMS: PostgreSQL
+
+I miei contatti:
+* Email
+* Linkedin: https://www.linkedin.com/in/salvatore-mercurio-full-stack-web-developer/)https://www.linkedin.com/in/salvatore-mercurio-full-stack-web-developer/
+* Github: https://github.com/Salvo1789
