@@ -2,14 +2,14 @@
 
 > Paulo Coelho
 
-Ciao a tutti!
+Ciao a tutti! :wave:
 ---
-Mi chiamo Salvatore Mercurio e sono un junior Full Stack Web Developer 🌐 in costante formazione e alla ricerca di nuovi spunti per rendere i miei progetti sempre più innovativi e accattivanti!
+Mi chiamo Salvatore Mercurio e sono un junior Full Stack Web Developer 🌐 in costante formazione :muscle: e alla ricerca di nuovi spunti per rendere i miei progetti sempre più innovativi e accattivanti 🔥!
 
 I miei punti di forza:
-* Grande spirito di squadra
+* Grande spirito di squadra 🤝
 * Perseveranza nell'incrementare le mie conoscenze
-* Resilienza
+* Resilienza 😄
   
 Le mie competenze:
 * Front-end: HTML5, CSS3, Javascript, React, Bootstrap, Redux
@@ -17,6 +17,6 @@ Le mie competenze:
 * DBMS: PostgreSQL
 
 I miei contatti:
-* Email
-* Linkedin: https://www.linkedin.com/in/salvatore-mercurio-full-stack-web-developer/
-* Github: https://github.com/Salvo1789
+* 📧Email
+* :linkedin: Linkedin: https://www.linkedin.com/in/salvatore-mercurio-full-stack-web-developer/
+* :github: Github: https://github.com/Salvo1789
