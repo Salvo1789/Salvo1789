@@ -1,4 +1,4 @@
-> “Un guerriero non può abbassare la testa, altrimenti perde di vista l'orizzonte dei suoi sogni.”
+> _“Un guerriero non può abbassare la testa, altrimenti perde di vista l'orizzonte dei suoi sogni.”_
 
 > Paulo Coelho
 
