@@ -23,7 +23,7 @@ Mi chiamo Salvatore Mercurio e sono un junior Full Stack Web Developer 🌐 in c
 ---
 * 📧 Email: salvo.mercurio89@gmail.com
 * 👔 Linkedin: https://www.linkedin.com/in/salvatore-mercurio-full-stack-web-developer/
-* 🕸️ Github: https://github.com/Salvo1789
+
 
   
 
