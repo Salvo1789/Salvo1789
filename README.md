@@ -18,5 +18,5 @@ Le mie competenze:
 
 I miei contatti:
 * 📧Email
-* :linkedin: Linkedin: https://www.linkedin.com/in/salvatore-mercurio-full-stack-web-developer/
-* :github: Github: https://github.com/Salvo1789
+* :L: Linkedin: https://www.linkedin.com/in/salvatore-mercurio-full-stack-web-developer/
+* 🕸️: Github: https://github.com/Salvo1789
